@@ -1,0 +1,14 @@
+## **UCV Technology Solutions Organization**
+ 
+As Allstate continues to grow and change, the demand for UCV data and functionality will also continue to grow and expand. We have aligned both our organizational focus and structure to better understand and enable our customers, deliver new functionality, and ensure the stability of our platform. We are now organized in three Pillars.
+
+* **Operational Excellence**
+  * Ensure business continuity / stability; Identify and drive improvement and innovation across UCV/ICS to increase operational efficiencies. <br>
+* **Delivery Solutions**
+  * Delivery of functional solutions, within both UCV Product and ICS Services, to drive business and technical growth. <br>
+* **Adoption Services**
+   * Enable business and technology usage of UCV functionality through product enablement, adoption and onboarding services. <br>
+
+![view](https://github.allstate.com/activitiesonboarding/asset/blob/master/Pillars.png)
+
+***
